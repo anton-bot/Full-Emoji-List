@@ -1,4 +1,4 @@
-# Full-Emoji-List
+# Emoji.cs: Full Emoji List for C#/.NET
 Full Emoji list presented as a C# class that can be used directly in your .NET projects.
 
 ## What is Emoji.cs
