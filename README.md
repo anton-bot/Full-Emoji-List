@@ -13,3 +13,8 @@ This file is a full list of emojis represented as C# constants and can be added 
     ...
     string replyMessage = "Thanks for shopping with us! " + Emoji.Blush;
     string replyMessage2 = "We hope to see you again in our store" + Emoji.Kissing_Heart;
+    ...
+    
+## Usage and questions
+
+MIT licensed; use for any purpose. For questions or comments please open an issue in this repository. Glad if that file helps!
