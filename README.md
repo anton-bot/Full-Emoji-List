@@ -8,7 +8,9 @@ This file is a full list of emojis represented as C# constants and can be added 
 ## Example use of Emoji.cs
 
     using J3QQ4;
-    //Using static J3QQ4.Emoji; //if you want to avoid the Emoji prefix
+    
+    //if you want to avoid the Emoji prefix and don't mind polluting your namespace
+    //using static J3QQ4.Emoji; 
     
     ...
     string replyMessage = "Thanks for shopping with us! " + Emoji.Blush;
