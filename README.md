@@ -20,3 +20,5 @@ This file is a full list of emojis represented as C# constants and can be added 
 ## Usage and questions
 
 MIT licensed; use for any purpose. For questions or comments please open an issue in this repository. Glad if that file helps!
+
+Help is welcome to update the file with any new emojis that will be released.
