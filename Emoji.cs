@@ -447,6 +447,7 @@ namespace J3QQ4
         public const string Angel = "👼";
         public const string Alien = "👽";
         public const string Space_Invader = "👾";
+        public const string Robot_Face = "🤖";
         public const string Imp = "👿";
         public const string Skull = "💀";
         public const string Information_Desk_Person = "💁";
