@@ -851,5 +851,7 @@ namespace J3QQ4
         public const string Water_Buffalo = "🐃";
         public const string Neutral_Face = "😐";
         public const string Clock1230 = "🕧";
+        public const string BodyBuilder = "🏋️";
+        public const string FlexedArm = "💪";
     }
 }
